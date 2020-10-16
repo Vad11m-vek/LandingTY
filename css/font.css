@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'FranklinGothic-Demi';
+  src: url('../font/FranklinGothic-Demi/FranklinGothic-Demi.eot');
+  src: url('../font/FranklinGothic-Demi/FranklinGothic-Demi.eot?#iefix') format('embedded-opentype'),
+       url('../font/FranklinGothic-Demi/FranklinGothic-Demi.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FranklinGothic-Demi';
+  src: url('../font/FranklinGothic-Demi/FranklinGothic-Demi.svg#FranklinGothic-Demi') format('svg'),
+       url('../font/FranklinGothic-Demi/FranklinGothic-Demi.ttf') format('truetype'),
+       url('../font/FranklinGothic-Demi/FranklinGothic-Demi.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'OpenSans-CondLight';
+	src: url('../font/OpenSans-CondLight/OpenSans-CondLight.eot');
+	src: url('../font/OpenSans-CondLight/OpenSans-CondLight.eot?#iefix') format('embedded-opentype'),
+		  url('../font/OpenSans-CondLight/OpenSans-CondLight.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+ }
+ 
+ @font-face {
+	font-family: 'OpenSans-CondensedLight';
+	src: url('../font/OpenSans-CondLight/OpenSans-CondensedLight.svg#OpenSans-CondensedLight') format('svg'),
+		  url('../font/OpenSans-CondLight/OpenSans-CondensedLight.ttf') format('truetype'),
+		  url('../font/OpenSans-CondLight/OpenSans-CondensedLight.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+ }
+
+ @font-face {
+	font-family: 'OpenSans-CondBold';
+	src: url('../font/OpenSans-CondBold/OpenSans-CondBold.eot');
+	src: url('../font/OpenSans-CondBold/OpenSans-CondBold.eot?#iefix') format('embedded-opentype'),
+		  url('../font/OpenSans-CondBold/OpenSans-CondBold.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+ }
+ 
+ @font-face {
+	font-family: 'OpenSans-CondensedBold';
+	src: url('../font/OpenSans-CondBold/OpenSans-CondensedBold.svg#OpenSans-CondensedBold') format('svg'),
+		  url('../font/OpenSans-CondBold/OpenSans-CondensedBold.ttf') format('truetype'),
+		  url('../font/OpenSans-CondBold/OpenSans-CondensedBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+ }
+ 
